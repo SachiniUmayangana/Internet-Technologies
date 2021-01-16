@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS_Slider</title>
+    <link href="css/normalize.css" rel="stylesheet">
+    <style>
+        body{
+            overflow: hidden;
+        }
+        div {
+            position: relative;
+            width: 800%;
+            left:-400% ;
+            animation: 20s slider infinite;
+        }
+
+
+        div>img {
+            width: 100vw;
+            height: 100vh;
+            background-size: cover;
+            background-position: center;
+            border: 0;
+
+        }
+
+
+        @keyframes slider {
+            0% {
+                left: -400%;
+            }
+            25% {
+                left: -300%;
+            }
+            50% {
+                left: -200%;
+            }
+            75%{
+                left: -100%;
+            }
+            100%{
+                left: 0%;
+            }
+        }
+
+    </style>
+</head>
+<body>
+<div>
+    <img src="img/red-pearls-flowers-4k-hu-2560x1600.jpg ">
+    <img src="img/TvuM20.webp">
+    <img src="img/wicked-nature-4k-3840x2160.jpg">
+    <img src="img/tangled-lanterns-castle-long-hair-wallpaper-preview.jpg">
+    <img src="img/691774.jpg">
+</div>
+
+</body>
+</html>
