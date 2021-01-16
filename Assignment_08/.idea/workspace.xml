@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5e46f06-61ce-46d0-9d0a-b0402bc0ee43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e88d8fba-52f8-48f3-877d-fd6108875b42" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1n8ug1wPSFkD9yBCx3o2ivcx3w4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1n9CESsT8sdSflmlr7PIFkwMgsz" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -29,11 +23,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dell\Desktop\Assignment_07\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dell\Desktop\Assignment_07" />
+      <recent name="C:\Users\dell\Desktop\Assignment_08" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,32 +44,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5e46f06-61ce-46d0-9d0a-b0402bc0ee43" name="Default Changelist" comment="" />
-      <created>1610784146834</created>
+      <changelist id="e88d8fba-52f8-48f3-877d-fd6108875b42" name="Default Changelist" comment="" />
+      <created>1610792807651</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610784146834</updated>
-      <workItem from="1610784149785" duration="7366000" />
-      <workItem from="1610792773236" duration="37000" />
-      <workItem from="1610792852683" duration="2000" />
-      <workItem from="1610792879826" duration="151000" />
+      <updated>1610792807651</updated>
+      <workItem from="1610792810723" duration="3392000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
